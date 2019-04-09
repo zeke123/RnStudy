@@ -3,17 +3,17 @@
  * @lint-ignore-every XPLATJSCOPYRIGHT1
  */
 
-import {AppRegistry} from 'react-native';
-import App from './js/App';
-import {name as appName} from './app.json';
-AppRegistry.registerComponent(appName, () => App);
-
-
-
 // import {AppRegistry} from 'react-native';
-// import Bananas from './js/Bananas';
+// import App from './js/App';
 // import {name as appName} from './app.json';
-// AppRegistry.registerComponent(appName, () => Bananas);
+// AppRegistry.registerComponent(appName, () => App);
+
+
+
+import {AppRegistry} from 'react-native';
+import Bananas from './js/Bananas';
+import {name as appName} from './app.json';
+AppRegistry.registerComponent(appName, () => Bananas);
 
 
 
