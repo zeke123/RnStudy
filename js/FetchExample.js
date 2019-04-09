@@ -49,3 +49,5 @@ export default class FetchExample extends Component {
         }
     }
 }
+
+
