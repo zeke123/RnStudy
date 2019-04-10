@@ -13,7 +13,6 @@ export default class LotsOfGreetings extends Component<Props>{
             <View style={{alignItems:'center'}}>
                 <Greeting name ="java" />
                 <Greeting name ="React Native" />
-
             </View>
         );
     }
