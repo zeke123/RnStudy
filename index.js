@@ -93,9 +93,27 @@
 // import {name as appName} from './app.json';
 // AppRegistry.registerComponent(appName, () => FetchExample);
 
-//
+
 // import {AppRegistry} from 'react-native';
 // import SampleAppMovies from './js/SampleAppMovies';
 // import {name as appName} from './app.json';
 // AppRegistry.registerComponent(appName, () => SampleAppMovies);
+
+
+
+// import {AppRegistry} from 'react-native';
+// import ImagesBase from './js/ImagesBase';
+// import {name as appName} from './app.json';
+// AppRegistry.registerComponent(appName, () => ImagesBase);
+
+
+
+import {AppRegistry} from 'react-native';
+import FadeInViewApp from './js/FadeInViewApp';
+import {name as appName} from './app.json';
+AppRegistry.registerComponent(appName, () => FadeInViewApp);
+
+
+
+
 
