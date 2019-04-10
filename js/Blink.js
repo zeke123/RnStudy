@@ -18,7 +18,6 @@ export default class Blink extends Component<Props> {
         }, 1000);
     }
 
-
     render() {
         if (!this.state.isShowingText) {
             return null

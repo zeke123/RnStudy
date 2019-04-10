@@ -23,17 +23,11 @@
 // AppRegistry.registerComponent(appName, () => LotsOfGreetings);
 
 
-
 // import {AppRegistry} from 'react-native';
 // import BlinkApp from './js/BlinkApp';
 // import {name as appName} from './app.json';
 // AppRegistry.registerComponent(appName, () => BlinkApp);
 
-
-// import {AppRegistry} from 'react-native';
-// import FixedDimensionsBasics from './js/FixedDimensionsBasics';
-// import {name as appName} from './app.json';
-// AppRegistry.registerComponent(appName, () => FixedDimensionsBasics);
 
 
 // import {AppRegistry} from 'react-native';
@@ -54,10 +48,21 @@
 // AppRegistry.registerComponent(appName, () => PizzaTranslator);
 
 
-// import {AppRegistry} from 'react-native';
-// import ButtonBasics from './js/ButtonBasics';
-// import {name as appName} from './app.json';
-// AppRegistry.registerComponent(appName, () => ButtonBasics);
+
+
+
+
+
+
+
+
+
+
+
+import {AppRegistry} from 'react-native';
+import ButtonBasics from './js/ButtonBasics';
+import {name as appName} from './app.json';
+AppRegistry.registerComponent(appName, () => ButtonBasics);
 
 
 // import {AppRegistry} from 'react-native';
@@ -108,10 +113,10 @@
 
 
 
-import {AppRegistry} from 'react-native';
-import FadeInViewApp from './js/FadeInViewApp';
-import {name as appName} from './app.json';
-AppRegistry.registerComponent(appName, () => FadeInViewApp);
+// import {AppRegistry} from 'react-native';
+// import FadeInViewApp from './js/FadeInViewApp';
+// import {name as appName} from './app.json';
+// AppRegistry.registerComponent(appName, () => FadeInViewApp);
 
 
 
