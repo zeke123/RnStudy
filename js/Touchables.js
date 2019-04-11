@@ -17,7 +17,7 @@ import {
 } from 'react-native';
 
 
-export default class Touchables extends Component {
+export default class c extends Component {
     //TouchableHighlight:此组件的背景会在用户手指按下时变暗
 
     //TouchableOpacity:会在用户手指按下时降低按钮的透明度，而不会改变背景的颜色。

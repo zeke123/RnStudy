@@ -6,7 +6,6 @@
 import React, { Component } from 'react';
 import { AppRegistry, ScrollView, Image, Text } from 'react-native';
 
-
 export default class Scrolled extends Component {
 
     render(){

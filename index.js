@@ -49,27 +49,17 @@
 
 
 
+// import {AppRegistry} from 'react-native';
+// import ButtonBasics from './js/ButtonBasics';
+// import {name as appName} from './app.json';
+// AppRegistry.registerComponent(appName, () => ButtonBasics);
 
-
-
-
-
-
-
-
-
-
-import {AppRegistry} from 'react-native';
-import ButtonBasics from './js/ButtonBasics';
-import {name as appName} from './app.json';
-AppRegistry.registerComponent(appName, () => ButtonBasics);
 
 
 // import {AppRegistry} from 'react-native';
 // import Touchables from './js/Touchables';
 // import {name as appName} from './app.json';
 // AppRegistry.registerComponent(appName, () => Touchables);
-
 
 
 // import {AppRegistry} from 'react-native';
@@ -99,10 +89,18 @@ AppRegistry.registerComponent(appName, () => ButtonBasics);
 // AppRegistry.registerComponent(appName, () => FetchExample);
 
 
+
 // import {AppRegistry} from 'react-native';
 // import SampleAppMovies from './js/SampleAppMovies';
 // import {name as appName} from './app.json';
 // AppRegistry.registerComponent(appName, () => SampleAppMovies);
+
+
+
+
+
+
+
 
 
 
@@ -117,6 +115,15 @@ AppRegistry.registerComponent(appName, () => ButtonBasics);
 // import FadeInViewApp from './js/FadeInViewApp';
 // import {name as appName} from './app.json';
 // AppRegistry.registerComponent(appName, () => FadeInViewApp);
+
+
+
+import {AppRegistry} from 'react-native';
+import DialogModalApp from './js/DialogModalApp';
+import {name as appName} from './app.json';
+AppRegistry.registerComponent(appName, () => DialogModalApp);
+
+
 
 
 
